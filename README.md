@@ -1,24 +1,15 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
+App 1 de la semaine 4: le docto_like
 
 * Ruby version
 
-* System dependencies
+2.7.1 --> oui, pas comme voulu...
 
-* Configuration
+* Process
 
-* Database creation
+On fait un petit bundle install pour lancer l'app, un rail db/seeds.rb pour enclencher le faker puis on checke si les tables communiquent bien entre elles..
 
-* Database initialization
 
-* How to run the test suite
 
-* Services (job queues, cache servers, search engines, etc.)
 
-* Deployment instructions
-
-* ...
